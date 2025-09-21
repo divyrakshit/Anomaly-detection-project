@@ -1,2 +1,2 @@
 # live project link
-[Anomaly-detection-in-IoT-devices](https://anomaly-detection-in-iot-devices-73hdzmcf6eq8gzmxpbqgvi.streamlit.app/)
+[Anomaly-detection-in-IoT-devices](https://anomaly-detection-project-6yy7pguyxrxn6e8q96fjzv.streamlit.app/)
